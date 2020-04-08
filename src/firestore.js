@@ -2,7 +2,7 @@ import firebase from "firebase";
 import "firebase/firestore";
 
 firebase.initializeApp({
-    "apiKey": "AIzaSyAzoGKs_Gk9qFbI4pv_zdUyolsjabNDd8M",
+    "apiKey": "",
     "databaseURL": "https://react-at-uok.firebaseio.com",
     "storageBucket": "react-at-uok.appspot.com",
     "authDomain": "react-at-uok.firebaseapp.com",
